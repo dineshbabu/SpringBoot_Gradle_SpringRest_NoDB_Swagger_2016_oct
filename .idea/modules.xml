@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelProject.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelProject_main.iml" group="GradelProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelProject_test.iml" group="GradelProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelSubProject1.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelSubProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelSubProject1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelSubProject1_main.iml" group="GradelSubProject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelSubProject1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelSubProject1_test.iml" group="GradelSubProject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleSubProject1/GradleSubProject1.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleSubProject1/GradleSubProject1.iml" group="GradleSubProject1" />
+      <module fileurl="file://$PROJECT_DIR$/../Java8Tutorial/Java8Tutorial.iml" filepath="$PROJECT_DIR$/../Java8Tutorial/Java8Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bookpub.iml" filepath="$PROJECT_DIR$/.idea/modules/bookpub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bookpub_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bookpub_main.iml" group="bookpub" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bookpub_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bookpub_test.iml" group="bookpub" />
+      <module fileurl="file://$PROJECT_DIR$/../mongojava/mongojava.iml" filepath="$PROJECT_DIR$/../mongojava/mongojava.iml" />
+    </modules>
+  </component>
+</project>
